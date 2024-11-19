@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.container .content ~ p {
+    color:red;
+}
+.container .content > p {
+    color:pink;
+}

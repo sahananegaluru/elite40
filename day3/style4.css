@@ -1,0 +1,12 @@
+ul{
+    list-style: none;
+}
+ul li{
+    display:inline;
+    margin-right:10px;
+    text-transform:uppercase;
+}
+ul li:hover {
+    color:red;
+    cursor: move;
+}
